@@ -418,7 +418,7 @@ p{
 .hero-bg{
     position:absolute;
     inset:0;
-    background:url("images/hero.jpg") center/cover no-repeat;
+    background:url("images/hero-bg .PNG") center/cover no-repeat;
     z-index:-2;
 }
 
