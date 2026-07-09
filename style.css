@@ -299,9 +299,19 @@ p{
     padding:0 20px;
 }
 
-.logo img{
-    width:170px;
-    display:block;
+.logo{
+    font-size:1.7rem;
+    font-weight:700;
+    color:#0B2545;
+    text-decoration:none;
+    line-height:1.1;
+    display:flex;
+    align-items:center;
+}
+
+.logo span{
+    color:#C9A96A;
+}
 }
 
 /* Navigation */
