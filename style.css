@@ -1518,9 +1518,14 @@ p{
     margin-bottom:60px;
 }
 
-.footer-logo img{
-    width:180px;
+.footer-logo{
+    display:block;
+    color:#fff;
+    font-size:2rem;
+    font-weight:700;
     margin-bottom:20px;
+    text-decoration:none;
+    line-height:1.2;
 }
 
 .footer-column p{
